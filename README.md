@@ -119,12 +119,6 @@ The dataset contains two input features forming a **U-shaped distribution**, mak
 
 ---
 
-## 🏁 Conclusion
-
-This project shows how **Polynomial Logistic Regression** extends the capabilities of standard Logistic Regression by introducing polynomial features. By transforming the feature space, the model successfully learns complex decision boundaries and accurately classifies non-linearly separable data, making it a valuable technique for many real-world classification problems.
-
----
-
 ## 💻 Technologies Used
 
 - Python
@@ -132,3 +126,9 @@ This project shows how **Polynomial Logistic Regression** extends the capabiliti
 - Pandas
 - Matplotlib
 - Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+This project shows how **Polynomial Logistic Regression** extends the capabilities of standard Logistic Regression by introducing polynomial features. By transforming the feature space, the model successfully learns complex decision boundaries and accurately classifies non-linearly separable data, making it a valuable technique for many real-world classification problems.
